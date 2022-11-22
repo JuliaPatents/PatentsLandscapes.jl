@@ -1,0 +1,13 @@
+name = "PatentsLandscapes"
+uuid = "e90634b4-20e9-4340-8903-37f02b1a8a83"
+authors = ["Alex Seitz <alex.seitz1@gmx.net> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
