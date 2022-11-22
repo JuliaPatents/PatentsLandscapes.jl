@@ -1,5 +1,7 @@
 module PatentsLandscapes
 
-# Write your package code here.
+using PatentsBase
+
+
 
 end
