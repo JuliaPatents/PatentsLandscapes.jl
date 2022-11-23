@@ -9,6 +9,7 @@ Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 PatentsBase = "b32246e4-6301-4a4b-8d75-0b3972dc1401"
 
 [compat]
+DataFrames = "1"
 julia = "1"
 
 [extras]
